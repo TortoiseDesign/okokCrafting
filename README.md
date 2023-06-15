@@ -1,7 +1,10 @@
-Hi, thank you for buying my script, I'm very grateful!
+"Note" EASY FOR ESX
 
-If you need help contact me on discord: okok#3488
-Discord server: https://discord.gg/FauTgGRUku
+Hi, thank you for use my script, I'm very grateful!
+
+If you need help contact me on discord: Tortoise Design#9228
+
+Discord server: https://discord.gg/3GFKFPaxK3
 
 You can find everything you need to set okokCrafting up in the config file.
 You should add the item images inside the icons folder "okokCrafting/web/icons".
